@@ -1,1 +1,19 @@
-# VSCodeSetting
+# Install Plugin
+- Bracket Pair Colorizer
+- Git History
+- Material Theme
+- Material Icon Theme
+- Partial Diff
+- Sort lines
+- Dart
+- Flutter
+- GitLens
+- Import Cost
+- Bash Debug
+- Indenticator
+- JetBrains IDE Keymap
+- Kotlin Language
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- TODO Highlight
+- Vetur
+- VSCode Great Icons
